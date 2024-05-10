@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## 🚀 About Me
+I am currently a student in cross-platform application development in an official and self-taught online course in web development.
 <!--
 **macfer79/macfer79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
