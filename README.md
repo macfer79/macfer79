@@ -3,14 +3,12 @@
 Bienvenido a mi perfil de GitHub!
 
 ## 🚀 Sobre mí
-Soy estudiante autodidacta en desarrollo de software. Trabajo de técnico de mantenimiento electrónico desde hace más de 16 años, pero he decidido cambiar de rol y entrar en el mundo del desarrollo.
-
-Actualmente también soy estudiante oficial para DAM (Desarrollo de Aplicaciones Multiplataforma) en una escuela online.
+Trabajo de técnico de mantenimiento electrónico desde hace más de 19 años, pero he decidido cambiar de rol y entrar en el mundo del desarrollo de software. Soy estudiante de un ciclo formativo de grado superior de DAM, impartida por FP Jesuïtes / UOC en formato online. 
 
 ## Otras secciones comunes del perfil de Github
-🧠 Actualmente estoy aprendiendo Diseño Web Responsivo atraves de una certificación en [freeCodeCamp](https://www.freecodecamp.org/). Además estoy realizando la ruta de aprendizaje de [GitHub Foundations](https://learn.microsoft.com/es-es/collections/o1njfe825p602p).
+🧠 Actualmente estoy aprendiendo Ciberseguridad con un curso impartido en YouTube [Curso Gratuito de Kali Linux desde 0 para Hackers Éticos](https://www.youtube.com/playlist?list=PLg7ZNf8WsbWAeoCT0j4HtptN3-v9KLILN). Además estoy realizando la ruta de aprendizaje de [GitHub Foundations](https://learn.microsoft.com/es-es/collections/o1njfe825p602p).
 
-👯‍♀️ Estoy buscando colaborar en algún proyecto inicial que me de experiencia en Desarrollo Web.
+👯‍♀️ Estoy buscando colaborar en algún proyecto inicial que me de experiencia en Ciberseguridad o Desarrollo con POO en Java.
 
 ## 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/macfer79)
