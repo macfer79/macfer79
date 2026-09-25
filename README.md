@@ -1,28 +1,42 @@
-# Hola, soy Manuel! 👋
+<div align="center">
+  <h1>¡Hola! Soy macfer79 👋</h1>
+  <p><b>Estudiante de DAM | Apasionado por la Ciberseguridad & el Desarrollo de Software</b></p>  
+</div>
 
-Bienvenido a mi perfil de GitHub!
+---
 
-## 🚀 Sobre mí
-Trabajo de técnico de mantenimiento electrónico desde hace más de 19 años, pero he decidido cambiar de rol y entrar en el mundo del desarrollo de software. Soy estudiante de un ciclo formativo de grado superior de DAM, impartida por FP Jesuïtes / UOC en la modalidad online. 
+### 📌 Sobre mí
 
-## Otras secciones comunes del perfil de Github
-🧠 Actualmente estoy aprendiendo Ciberseguridad con un curso impartido en YouTube [Curso Gratuito de Kali Linux desde 0 para Hackers Éticos](https://www.youtube.com/playlist?list=PLg7ZNf8WsbWAeoCT0j4HtptN3-v9KLILN). Además estoy realizando la ruta de aprendizaje de [GitHub Foundations](https://learn.microsoft.com/es-es/collections/o1njfe825p602p).
+Perfil en evolución técnica. Soy estudiante del **Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**. 
 
-👯‍♀️ Estoy buscando colaborar en algún proyecto inicial que me de experiencia en Ciberseguridad y Linux.
+Cuento con experiencia laboral como **Técnico de Mantenimiento**, una trayectoria que me aporta una sólida capacidad de análisis, metodología de diagnóstico y resolución de problemas, cualidades que aplico directamente al **desarrollo de software** y a la **seguridad en redes**.
 
-## 🔗 Links
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/macfer79)
-<!--
-**macfer79/macfer79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actualmente combino mi formación académica con el estudio autodidacta centrado en entorno Linux, redes y fundamentos de ciberseguridad.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Enfoque & Acreditaciones
+
+* 🎓 **Formación Académica:** Desarrollo de aplicaciones multiplataforma, lógica de programación, bases de datos y desarrollo de software.
+* 🛡️ **Seguridad & Redes:** Aprendizaje autónomo en ciberseguridad, administración de entornos Linux y herramientas de análisis (*Kali Linux*).
+* 📜 **Acreditaciones Oficiales:**
+  * **ACTIC (Certificado Nivel Medio):** Acreditación de Competencias en Tecnologías de la Información y la Comunicación (*equivalencia por superación del proyecto de competencias digitales de Ciclo Formativo de Grado Superior, según la Orden PDA/124/2018*).
+
+---
+
+### 🛠️ Tecnologías & Herramientas
+
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Lenguajes** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |
+| **Sistemas & Ciberseguridad** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kalilinux&logoColor=white) |
+| **Control de Versiones** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white) |
+
+---
+
+### 🔗 Contacto
+
+Si deseas conectar o colaborar en proyectos de desarrollo o seguridad:
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1067843583958335528)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/macfer79)
